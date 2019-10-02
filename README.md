@@ -73,6 +73,7 @@
   <ul>
   <li>Run the git commit command</li>
   <li>Make a message at the end of the commit that relates to what the commit is</li>
+    </ol>
   </ul>
   <h2>Media</h2>
 </body>
