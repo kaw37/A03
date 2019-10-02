@@ -10,7 +10,8 @@
   <p>Github is a website that hosts and uses Git, allowing users to collaborate on open source projects (where the public can see the code), or closed source projects (where the public cannot see the code, but select users can).<p>
   <h3>Webstorm</h3>
   <p>Webstorm is an IDE that provides coding assistance for JavaScript, HTML and CSS and a wide range of modern web technologies. Webstorm can be integrated with Git.<p>
-  <h2>Habitat</h2>
+  <h2>How to Use Git and Github</h2>
+  
   <h3>Countries with Large Brown Bear Populations</h3>
   <h3>Countries with Small Brown Bear Populations</h3>
   <h2>Media</h2>
