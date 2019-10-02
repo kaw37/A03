@@ -40,7 +40,7 @@
   </ul>
   <li>Create a branch (separate "states" of a program) to add features to the program without making permanent changes to the main version</li>
   <ul>
-  <li>Run "git checkout -b < my branch name >"</li>
+  <li>Run "git checkout -b < my branch name >" (remove spaces between "my branch name" and its external arrows)</li>
   <li>Run the git branch command to confirm that the branch was created</li>
   <li>Note that the branch name with the asterisk next to it indicates which branch is pointed to at a given time</li> 
   </ul>
