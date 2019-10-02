@@ -20,7 +20,7 @@
   <ol>
   <li>To create a new project using Git, create a repository (a directory or storage space that keeps code files, text files, image files, etc.) in a computer folder</li>
   <ul>
-  <li>Open the terminal (an application that directly interacts with the computer through typed commands) to save the project to a certain place on the computer through the cd (change directory) command</li>
+  <li>Open the terminal (an application that directly interacts with the computer through typed commands) to save the project to the desired place on the computer through the cd (change directory) command</li>
   <li>Create the repository by running the git init command</li>
   </ul>
   <li></li>
