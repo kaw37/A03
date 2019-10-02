@@ -34,6 +34,9 @@
   <li>Rerun the git status command to see that Git has added the file to the staging environment</li>
   </ul>
   <li>Create a commit</li>
+  <ul>
+  <li>Run the git commit command</li>
+  <li>Make a message at the end of the commit that relates to what the commit is
   </ol>
   <h3>Countries with Small Brown Bear Populations</h3>
   <h2>Media</h2>
