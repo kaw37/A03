@@ -23,7 +23,11 @@
   <li>Open the terminal (an application that directly interacts with the computer through typed commands) to save the project to the desired place on the computer through the cd (change directory) command</li>
   <li>Create the repository by running the git init command</li>
   </ul>
-  <li></li>
+  <li>Add a new file to the repository</li>
+  <ul>
+  <li>Use any text editor you like or run a touch command</li>
+  <li>Use the git status command to see which files Git considers to exist </li>
+  </ul>
   </ol>
   <h3>Countries with Small Brown Bear Populations</h3>
   <h2>Media</h2>
