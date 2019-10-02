@@ -52,7 +52,8 @@
   </ol>
   <h3>Using Github</h3>
   <p>On Github, the user can make a new repository and create commits directly on the repository, or they can push (sending committed changes to a remote repository) import an existing repository from the command line.<p>
-  <h4>Creating a New Repository from Scratch</h4>
+  <h4>Create a New Repository or Push (Import) an Existing Repository from the Command Line</h4>
+  <h5>Creating a New Repository from Scratch</h5>
   <ol>
   <li>Click on the button that says "New" and displays a book icon</li>
   <li>Customize the new repository</li>
@@ -62,6 +63,7 @@
   <ol>
   <li>Enter the clone URL of the existing repository into the URL field</li>
   </ol>
+  
   <h2>Media</h2>
 </body>
 <html>
