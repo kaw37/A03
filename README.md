@@ -20,8 +20,8 @@
   <ol>
   <li>To create a new project using Git, create a repository (a directory or storage space that keeps code files, text files, image files, etc.) in a computer folder</li>
   <ul>
-  <li>Use the terminal</li>
-  <li>text</li>
+  <li>Open a terminal (an application that directly interacts with the computer through typed commands) within Git</li>
+  <li></li>
   <li>text</li>
   </ul>
   <li></li>
