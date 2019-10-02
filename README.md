@@ -59,7 +59,7 @@
   <li>Customize the new repository</li>
   <li>Code on the new repository using HTML</li>
   </ol>
-  <h4>Pushing (or Importing) an Existing Repository from the Command Line</h4>
+  <h5>Pushing (or Importing) an Existing Repository from the Command Line</h5>
   <ol>
   <li>Enter the clone URL of the existing repository into the URL field</li>
   </ol>
