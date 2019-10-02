@@ -32,6 +32,7 @@
   <ul>
   <li>Use the git add command</li>
   <li>Rerun the git status command to see that Git has added the file to the staging environment</li>
+  </ul>
   </ol>
   <h3>Countries with Small Brown Bear Populations</h3>
   <h2>Media</h2>
