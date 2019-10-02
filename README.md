@@ -63,7 +63,11 @@
   <ol>
   <li>Enter the clone URL of the existing repository into the URL field</li>
   </ol>
-  
+  <h4>Push a Branch to Github</h4>
+  <ol>
+  <li>Run "git push origin yourbranchname"</li>
+  <li>
+  </ol>
   <h2>Media</h2>
 </body>
 <html>
