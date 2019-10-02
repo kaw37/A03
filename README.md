@@ -45,7 +45,10 @@
   <li>Note that the branch name with the asterisk next to it indicates which branch is pointed to at a given time</li> 
   </ul>
   <li>Merge the branches (optional)</li>
-  
+  <ul>
+  <li>"Check out" the branch by running "git checkout master"</li>
+  <li>Run "git merge (branch name)"</li>
+  </ul>
   </ol>
   <h3>Countries with Small Brown Bear Populations</h3>
   <h2>Media</h2>
