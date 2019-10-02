@@ -51,6 +51,8 @@
   </ul>
   </ol>
   <h3>Using Github</h3>
+  <p>On Github, the user can make a new repository and create commits directly on the repository, or they can push (sending committed changes to a remote repository) an existing repository from the command line.<p>
+  
   <h2>Media</h2>
 </body>
 <html>
