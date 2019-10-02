@@ -49,9 +49,8 @@
   <li>"Check out" the branch by running "git checkout master"</li>
   <li>Run "git merge (branch name)"</li>
   </ul>
-  
   </ol>
-  <h3></h3>
+  <h3>Using Github</h3>
   <h2>Media</h2>
 </body>
 <html>
