@@ -60,7 +60,7 @@
   </ol>
   <h4>Pushing (or Importing) an Existing Repository from the Command Line</h4>
   <ol>
-  <li>Enter the clone url of the existing repository into the url field</li>
+  <li>Enter the clone URL of the existing repository into the URL field</li>
   </ol>
   <h2>Media</h2>
 </body>
