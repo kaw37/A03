@@ -36,7 +36,14 @@
   <li>Create a commit</li>
   <ul>
   <li>Run the git commit command</li>
-  <li>Make a message at the end of the commit that relates to what the commit is
+  <li>Make a message at the end of the commit that relates to what the commit is</li>
+  </ul>
+  <li>Create a branch (separate "states" of a program) to add features to the program without making permanent changes to the main version</li>
+  <ul>
+  <li>Run git checkout -b <my branch name></li>
+  <li>Run the git branch command to confirm that the branch was created</li>
+  <li>Note that the branch name with the asterisk next to it indicates which branch is pointed to at a given time</li> 
+  </ul>
   </ol>
   <h3>Countries with Small Brown Bear Populations</h3>
   <h2>Media</h2>
