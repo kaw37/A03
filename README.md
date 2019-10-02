@@ -44,6 +44,8 @@
   <li>Run the git branch command to confirm that the branch was created</li>
   <li>Note that the branch name with the asterisk next to it indicates which branch is pointed to at a given time</li> 
   </ul>
+  <li>Merge the branches (optional)</li>
+  
   </ol>
   <h3>Countries with Small Brown Bear Populations</h3>
   <h2>Media</h2>
