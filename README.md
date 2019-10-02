@@ -12,7 +12,11 @@
   <p>Webstorm is an IDE that provides coding assistance for JavaScript, HTML and CSS and a wide range of modern web technologies. Webstorm can be integrated with Git.<p>
   <h2>How to Use Git and Github</h2>
   <h3>Getting Started</h3>
-  <p>dskfaha dk<p>
+  <ol>
+  <li>Install Git at https://git-scm.com/book/en/v2/Getting-Started-Installing-Git</li>
+  <li>Make a Github account at https://github.com/join</li>
+  <li>text</li>
+  </ol>
   <h3>Countries with Large Brown Bear Populations</h3>
   <h3>Countries with Small Brown Bear Populations</h3>
   <h2>Media</h2>
