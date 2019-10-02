@@ -29,8 +29,9 @@
   <li>Use the git status command to see which files Git considers to exist </li>
   </ul>
   <li>Add the file to the staging environment (where the program is tested in private)</li>
-  <li>Create the repository by running the git init command</li>
-   
+  <ul>
+  <li>Use the git add command</li>
+  <li>Rerun the git status command to see that Git has added the file to the staging environment</li>
   </ol>
   <h3>Countries with Small Brown Bear Populations</h3>
   <h2>Media</h2>
