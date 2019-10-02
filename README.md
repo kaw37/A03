@@ -25,9 +25,12 @@
   </ul>
   <li>Add a new file to the repository</li>
   <ul>
-  <li>Use any text editor you like or run a touch command</li>
+  <li>Use any text editor or run a touch command</li>
   <li>Use the git status command to see which files Git considers to exist </li>
   </ul>
+  <li>Add the file to the staging environment (where the program is tested in private)</li>
+  <li>Create the repository by running the git init command</li>
+   
   </ol>
   <h3>Countries with Small Brown Bear Populations</h3>
   <h2>Media</h2>
