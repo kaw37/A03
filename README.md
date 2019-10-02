@@ -53,9 +53,27 @@
   <h3>Using Github</h3>
   <p>On Github, the user can make a new repository and create commits directly on the repository, or they can push (sending committed changes to a remote repository) import an existing repository from the command line.<p>
   <h4>Creating a New Repository from Scratch<h4>
-  <li>Click on the button that says "New" and displays a book character.</li>
-  <li>Customize the new repository however desired</li>
-  <li>Code HTML on the repository</li>
+  <ol>
+  <li>To create a new project using Git, create a repository (a directory or storage space that keeps code files, text files, image files, etc.) in a computer folder</li>
+  <ul>
+  <li>Open the terminal (an application that directly interacts with the computer through typed commands) to save the project to the desired place on the computer through the cd (change directory) command</li>
+  <li>Create the repository by running the git init command</li>
+  </ul>
+  <li>Add a new file to the repository</li>
+  <ul>
+  <li>Use any text editor or run a touch command</li>
+  <li>Use the git status command to see which files Git considers to exist </li>
+  </ul>
+  <li>Add the file to the staging environment (where the program is tested in private)</li>
+  <ul>
+  <li>Use the git add command</li>
+  <li>Rerun the git status command to see that Git has added the file to the staging environment</li>
+  </ul>
+  <li>Create a commit</li>
+  <ul>
+  <li>Run the git commit command</li>
+  <li>Make a message at the end of the commit that relates to what the commit is</li>
+  </ul>
   <h2>Media</h2>
 </body>
 <html>
