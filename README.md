@@ -57,6 +57,11 @@
   <li>Click on the button that says "New" and displays a book icon</li>
   <li>Customize the new repository</li>
   <li>Code on the new repository using HTML</li>
+  </ol>
+  <h4>Pushing (or Importing) an Existing Repository from the Command Line</h4>
+  <ol>
+  <li>Enter the clone url of the existing repository into the url field</li>
+  </ol>
   <h2>Media</h2>
 </body>
 <html>
